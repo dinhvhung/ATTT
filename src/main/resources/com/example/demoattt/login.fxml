@@ -76,7 +76,7 @@
       </StackPane>
       <StackPane>
          <children>
-            <Text fx:id="notificationText" strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Text fx:id="notificationText" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="298.0" />
          </children>
       </StackPane>
    </children>
