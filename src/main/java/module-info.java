@@ -1,4 +1,5 @@
 module com.example.demoattt {
+    requires transitive javafx.base;
     requires javafx.controls;
     requires javafx.fxml;
 
